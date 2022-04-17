@@ -4,6 +4,7 @@
 !.editorconfig
 !.nojekyll
 !.travis.yml
+Icon?
 
 # bundler cache
 _site
@@ -15,3 +16,4 @@ vendor
 # npm dependencies
 node_modules
 package-lock.json
+Icon

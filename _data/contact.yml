@@ -3,13 +3,17 @@
 -
   type: github
   icon: 'fab fa-github'
+  noblank: false
 -
-  type: twitter
-  icon: 'fab fa-twitter'
+  type: instagram
+  icon: 'fab fa-instagram'
+  url: 'http://instagram.com/adinandradrs'
+  noblank: false
 -
-  type: email
-  icon: 'fas fa-envelope'
-  noblank: true            # open link in current tab
+  type: linkedin
+  icon: 'fab fa-linkedin'
+  noblank: false
+  url: 'https://www.linkedin.com/in/adinandra-dharmasurya/'
 -
   type: rss
   icon: 'fas fa-rss'

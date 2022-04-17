@@ -1,0 +1,30 @@
+---
+title: Esensi Instagram
+author:
+  name: Adinandra Dharmasurya
+  link: https://adinandra.dharmasurya.id
+date: 2021-08-08 +0700
+categories: [Life]
+tags: [sosmed,literasi]
+pin: false
+image:
+  src: /etc/photography.png
+  width: 350   # in pixels
+  alt: Fotografi
+---
+<script async="" src="//platform.instagram.com/en_US/embeds.js"></script>
+Bersantai di hari minggu sembari mendengarkan lantunan lagu barat era 70an, saya melongok aplikasi Instagram di smartphone saya. Ternyata ada hasil jepretan yang pernah dimuat di akun komunitas fotografi dan travelling. Sebetulnya ketika saya mengambil gambar hanya sekedar untuk mengabadikan momen dan mengunggahnya sebagai bahan tulisan, karena kebetulan suka membuat mini literatur. Setiap foto yang diambil turut membuat saya berusaha mengingat apa yang saya sedang lakukan saat itu agar tidak lekas pikun. Perjalanan dinas ke Jogja di tahun 2016 silam memberi ilmu dan hikmah tentang hidroponik di sebuah hotel sekalian share kepada orang tua karena beliau tertarik dengan pertanian. Singkat padat, saya mengulas tentang praktisnya bercocok tanam dengan hidroponik dan meyakini bahwa dapat menjadi peluang usaha bagi mereka yang berkecimpung di dunia pertanian.
+
+<div class="embed-instagram"><iframe class="instagram-media instagram-media-rendered" id="instagram-embed-0" src="https://www.instagram.com/p/BOwK4PCDNB-/embed/captioned/?cr=1&amp;v=13&amp;wp=1316&amp;rd=https%3A%2F%2Fadinandra.dharmasurya.id&amp;rp=%2F2021%2F08%2F08%2Fesensi-instagram%2F#%7B%22ci%22%3A0%2C%22os%22%3A678%7D" allowtransparency="true" allowfullscreen="true" frameborder="0" height="1711" data-instgrm-payload-id="instagram-media-payload-0" scrolling="no" style="background: white; max-width: 658px; width: calc(100% - 2px); border-radius: 3px; border: 1px solid rgb(219, 219, 219); box-shadow: none; display: block; margin: 0px 0px 12px; min-width: 326px; padding: 0px;"></iframe></div>
+
+Mini literatur beserta foto tentang hidroponik yang saya bagikan di Instagram ternyata dikurator oleh [@instanusantara](https://www.instagram.com/instanusantara/) dan merupakan salah satu akun komunitas fotografi nasional yang cukup besar di Instagram. Tidak lama selepas perjalanan dinas dari Jogja, saya menjejakkan kaki di kota Bandung dalam rangka solo travelling. Kecantikan Bumi Parahyangan di belahan selatan jangan sampai hilang dari ingatan dalam benak saya. Di Pangelangan saya mengabadikan keindahan nuansa fajar perkebunan teh melalui kamera smartphone saya. Foto tersebut turut saya bagikan di instagram dengan caption bertema liburan karena memang hanya ingin memamerkan keindahan Pangalengan. Tidak lama berselang, foto saya turut dikurator oleh [@indotravellers.co](https://www.instagram.com/indotravellers.co/) sebuah akun travel influencer di Instagram.
+
+Jujur terdapat rasa senang serta bangga karya saya dapat dibagikan secara luas dan diketahui oleh masyarakat internet (netizen). Bukan untuk menjadi menjadi traveller, tenar, mendapat banyak likes, mendapat banyak follower, atau apalagi menjadi influencer dengan akun centang biru di Instagram. Tujuan saya menggugahnya ke Instagram saat itu adalah atas dasar esensi di Instagram saya dapat membagikan sesuatu yang menjadi promosi wisata dengan seni visual (visual art) serta mengedukasi. Mencari komentar dan masukkan dalam cara saya menjepret serta memanfaatkan hashtag untuk mencari color presets juga menjadi poin utama ketika menggunakan Instagram pada masa itu.
+
+<div class="embed-instagram"><iframe class="instagram-media instagram-media-rendered" id="instagram-embed-1" src="https://www.instagram.com/p/BTdq4rSFIIe/embed/captioned/?cr=1&amp;v=13&amp;wp=1316&amp;rd=https%3A%2F%2Fadinandra.dharmasurya.id&amp;rp=%2F2021%2F08%2F08%2Fesensi-instagram%2F#%7B%22ci%22%3A1%2C%22os%22%3A679.6999999955297%7D" allowtransparency="true" allowfullscreen="true" frameborder="0" height="1133" data-instgrm-payload-id="instagram-media-payload-1" scrolling="no" style="background: white; max-width: 658px; width: calc(100% - 2px); border-radius: 3px; border: 1px solid rgb(219, 219, 219); box-shadow: none; display: block; margin: 0px 0px 12px; min-width: 326px; padding: 0px;"></iframe></div>
+
+Semakin berkembangnya teknologi platform digital ini turut membentuk gaya hidup atau malah mungkin sebetulnya mengikuti kebutuhan gaya hidup? Instagram di era sekarang sudah seperti platform dengan fitur gurita. Dapat digunakan sebagai livestream, online shop, portal informasi serta promosi yang singkat, media hiburan seperti meme, channel IG TV, dan lain sebagainya. Dulu jika saya ingin hiburan meme biasanya mengakses 9gag, mencari katalog belanja di toko sebelah, ulasan tempat berlibur di blog orang lain serta Youtube, dan mencari ilham desain mengintip di Pinterest namun sekarang ada di dalam satu aplikasi saya dapat mengaksesnya. Di tambah dengan aplikasi pendukung lainnya sehingga memungkinkan fungsinya dapat menjadi apa saja tergantung siapa penggunanya, maka dari itu saya menyebutnya sebagai sebuah platform.
+
+Instagram sudah bukan lagi sekedar media sosial, agak sulit untuk didefinisikan kategorinya sebagai sebuah platform. Karena jika didefinisikan media sosial maka terlalu sempit. Setelah saya berkeluarga kebetulan hobi fotografi sedikit luntur sehingga penggunaan Instagram lebih ke arah mengabadikan momen bersama pasangan serta keluarga, travelling tipis-tipis, mencari tempat rekreasi, sekilas berita, dan lahan mencari promo produk hehe. Untuk mengatasi masalah keamanan saya juga mengubah profile dari yang dulu publik sekarang menjadi private serta menggunakan two step autentikasi. Pernah ada yang berpura-pura menjadi saya untuk meminjam uang dengan mengambil foto profile.
+
+Semakin modern, semakin ramai, maka semakin banyak kesempatan dalam kesempitan. Jadi rekan-rekan sendiri bagaimana dalam mengoptimalkan penggunaan serta menyikapi perkembangan di Instagram? Semoga meskipun arus alir informasi di Instagram mengalir deras rekan-rekan dapat memanfaatkan dengan bijak, memilah informasi yang valid, mencerna informasi dengan seksama, serta selalu menjaga keamanan digital. Salam sehat.
