@@ -3,7 +3,7 @@ title: Touring ke Bandung
 author:
   name: Adinandra Dharmasurya
   link: https://adinandra.dharmasurya.id
-date: 2021-10-05 +0700
+date: 2021-10-03 +0700
 categories: [Travel]
 tags: [vacation,touring,bandung]
 pin: false
@@ -25,7 +25,7 @@ Sekitar pukul 08.45 meski sedikit terlambat kami resmi memulai acara touring, me
 
 Sekitar pukul 09.45 kami sudah sampai di arah Cikarang menuju Pantura. Berjalan dengan kecepatan tanggung sekitar 80 - 90 kpj dan kondisi jalanannya yang cukup lengang. Tidak terburu-buru karena toh jam makan siang masih lumayan lama. Sesuai dengan itinerari serta petunjuk navigasi kami sampai di Sate Maranggi Haji Yetty Purwakarta tepat pukul 10.30 WIB. Cepat juga ternyata, hanya setengah jam lebih sedikit perjalanan dari Pantura.
 
-![](https://lh3.googleusercontent.com/pw/AM-JKLUBsMp9vSrDu6j0I701Wwbr7ChFHun6xJ1A_A4me8WnJh-d-HGZOQZQ7Ti8i8rlEBcpmig7TYk2Ypicya_3dIuw3PEYj9wde8BjSu7wYrDqAAynuhkiURKjifXeVsGjDUWDe_m-lEA1cAeqWctRIuX9uQ=h600-no?authuser=0){: height="345" style="max-width: 70%" .normal}![](https://lh3.googleusercontent.com/pw/AM-JKLVPb6Q-v3U_OvARofjwomltf0cHQ-0ryCogdBZ_XhAqDqPqvJmvRjQGpc2HSThH8BcM7M2P0v9ioCyjrW7qb6giAKk3bNPgr8HROI4uHeViOqF_csdi_34u4oVhXHi9zQ71653MNSbI77IP8fw-uYSsdA=h600-no?authuser=0){: height="345" style="max-width: 70%" .normal}
+![](https://lh3.googleusercontent.com/pw/AM-JKLUBsMp9vSrDu6j0I701Wwbr7ChFHun6xJ1A_A4me8WnJh-d-HGZOQZQ7Ti8i8rlEBcpmig7TYk2Ypicya_3dIuw3PEYj9wde8BjSu7wYrDqAAynuhkiURKjifXeVsGjDUWDe_m-lEA1cAeqWctRIuX9uQ=h450-no?authuser=0){: height="345" style="max-width: 70%" .normal}![](https://lh3.googleusercontent.com/pw/AM-JKLVPb6Q-v3U_OvARofjwomltf0cHQ-0ryCogdBZ_XhAqDqPqvJmvRjQGpc2HSThH8BcM7M2P0v9ioCyjrW7qb6giAKk3bNPgr8HROI4uHeViOqF_csdi_34u4oVhXHi9zQ71653MNSbI77IP8fw-uYSsdA=h450-no?authuser=0){: height="345" style="max-width: 70%" .normal}
 
 Setelah puas berkuliner, dari arah Haji Bu Yetty kami mengikuti lajur jalan Veteran menuju arah Bandung. Di persimpangan menuju Pasawahan - Purwakarta kami mengambil ke arah kiri karena ingin langsung ke Lembang. Melewati beberapa daerah asing yang sama sekali belum pernah saya kunjungi. Percaya saja dengan panduan di peta akhirnya kami sampai di daerah Cicadas. 
 
