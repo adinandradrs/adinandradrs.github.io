@@ -21,8 +21,8 @@ Berhubung saya mulai melanjutkan project lama yang mulai dicicil untuk dikerjaka
 
 Untuk repositorynya dapat dicheckout pada link berikut :
 
-- [codefun-go-common](https://github.com/adinandradrs/codefun-go-common) untuk base interface service, model entity, model request, dan model response yang digunakan secara general untuk membangun input (request), proses (service), serta output (response).
-- [codefun-go-service](https://github.com/adinandradrs/codefun-go-service) untuk base interface repository, base interface adaptor, base config untuk caching dengan Go-Redis, base config untuk database dengan PGX, rest client, utils, serta constants yang generic dapat digunakan di semua microservice.
+- [boiler-go-common](https://github.com/adinandradrs/boiler-go-common) untuk base interface service, model entity, model request, dan model response yang digunakan secara general untuk membangun input (request), proses (service), serta output (response).
+- [boiler-go-service](https://github.com/adinandradrs/boiler-go-service) untuk base interface repository, base interface adaptor, base config untuk caching dengan Go-Redis, base config untuk database dengan PGX, rest client, utils, serta constants yang generic dapat digunakan di semua microservice.
 
 ---
 
