@@ -1,4 +1,4 @@
-name: 'Automatic build'
+name: Pipeline Personal Blog
 on:
   push:
     branches:
@@ -7,23 +7,18 @@ on:
       - .gitignore
       - README.md
       - LICENSE
-
 jobs:
   continuous-delivery:
-
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
+      - name: Checkout Code
         uses: actions/checkout@v2
         with:
           fetch-depth: 0  # for posts's lastmod
-
-      - name: Setup Ruby
+      - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.7
           bundler-cache: true
-
-      - name: Deploy
+      - name: Deploy to Github Page
         run: bash tools/deploy.sh
